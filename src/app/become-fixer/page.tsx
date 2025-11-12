@@ -6,8 +6,8 @@ import { FixerEnableWizard } from "@/Components/fixer/Filter-eneable-wizard"
 import { Navbar } from "@/Components/Shared/Navbar"
 
 const defaultFormValues = {
-  name: "Freddy Amin Zapata",
-  email: "zapata@example.com",
+  name: "Beyda Skarlet Pizzo",
+  email: "pizzob@example.com",
   phone: "+591 68546043",
 }
 

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Building2, Calendar, Briefcase, Plus, Edit2, Trash2 } from 'lucide-react';
+import { Building2, Calendar, Briefcase, Plus, Loader2, Edit2, Trash2 } from 'lucide-react';
 import NotificationModal from '@/Components/Modal-notifications';
 import type { IExperience } from '@/types/fixer-profile';
 import {

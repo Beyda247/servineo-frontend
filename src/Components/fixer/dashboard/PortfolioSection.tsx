@@ -391,11 +391,7 @@ export function PortfolioSection({ readOnly = false, fixerId }: PortfolioSection
                     <p className='text-xs text-green-700 mb-2 font-semibold'>✅ Vista Previa:</p>
                     <div className='relative w-full h-48 rounded-lg overflow-hidden bg-white shadow-md'>
                       {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={previewUrl}
-                        alt='Preview'
-                        className='w-full h-full object-contain'
-                      />
+                      <img src={previewUrl} alt="Preview" className="w-full h-full object-contain" />
                     </div>
                   </div>
                 )}
